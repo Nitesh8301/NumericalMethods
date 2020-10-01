@@ -109,3 +109,5 @@ def bisection(a, b):
 a = -200
 b = 300
 bisection(a, b)
+
+#Newton Raphson Method
